@@ -1,2 +1,2 @@
 # hc-srv
-The server instance for homehontrol
+The server instance for homecontrol
